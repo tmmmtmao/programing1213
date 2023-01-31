@@ -14,11 +14,15 @@
       },
       {
         "matches": ["https://www2.kobe-u.ac.jp/*"],
-        "js": ["content_script2.js"]
+        "js": ["content2_script.js"]
       },
       {
         "matches": ["https://www.yahoo.co.jp/*"],
-        "js": ["content_script3.js"]
+        "js": ["content3_script.js"]
+      },
+      {
+        "matches": ["https://pianobooks.jp/*"],
+        "js": ["content.js"]
       }
     ]
   }
